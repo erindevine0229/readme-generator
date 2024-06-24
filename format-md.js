@@ -3,29 +3,43 @@
 function formatReadme (title, description, installation, usage, contributions, test, license, username, email) {
   
     const readmeContent = 
-    `# ${title}
 
-    ## Description
-    ${description}
 
-    ## Installation
-    ${installation}
+`
+# ${title}
 
-    ## Usage
-    ${usage}
+### Table of Contents:
 
-    ## Contributions
-    ${contributions}
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributions](#contributions)
+5. [Testing](#testing)
+6. [License](#license)
+7. [Questions](#questions)
 
-    ## Testing
-    ${test}
 
-    ## License
-    ${license}
+## Description
+${description}
 
-    ## Questions
-    My GitHub profile username is ${username}. View my profile at https://github.com/${username}. 
-    If you have any questions, you can contact me at ${email}.`
+ ## Installation
+${installation}
+
+## Usage
+${usage}
+
+## Contributions
+${contributions}
+
+## Testing
+${test}
+
+## License
+${license}
+
+## Questions
+My GitHub profile username is ${username}. View my profile at https://github.com/${username}. 
+If you have any questions, you can contact me at ${email}.`
     
     return readmeContent;
 };
