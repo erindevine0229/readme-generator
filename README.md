@@ -33,3 +33,7 @@ MIT License
 ## Questions
 My GitHub profile username is erindevine0229. View my profile at https://github.com/erindevine0229. 
 If you have any questions, you can contact me at erinj291@gmail.com.
+
+## Screencastify Link
+
+https://drive.google.com/file/d/1wJmBz6X01M8ryTvJWqkpiOieyF-5Vyy5/view?usp=sharing
